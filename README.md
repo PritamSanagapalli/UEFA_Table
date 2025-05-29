@@ -29,7 +29,7 @@ A modern React application that displays upcoming UEFA Champions League football
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PritamSanagapalli/UEFA_Table.git
    cd upcoming-matches
    ```
 
